@@ -42,8 +42,8 @@ This project is an interactive Finance Analysis Dashboard developed using Power 
 - Operational Efficiency – Avg transaction value (₹9.02K) and small YoY declines in fees/tax indicate stable unit economics; ongoing monitoring avoids margin erosion.
 
 📂 Project Files
-Finance Dashboard (.pbix)
-Dashboard Screenshots
+Finance Dashboard (.pbix).
+Dashboard Screenshots.
 README.md
 
 👤 Author
@@ -54,6 +54,7 @@ LinkedIn: www.linkedin.com/in/shriniwaskacharde
 
 
 📸 Dashboard Preview
+
 Overview Dashboard
 
 <img width="1515" height="796" alt="image" src="https://github.com/user-attachments/assets/776f0fa0-f192-45bb-9f40-9862f47baacf" />
